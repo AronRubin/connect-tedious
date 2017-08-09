@@ -4,10 +4,10 @@ extends: 'eslint:recommended'
 rules:
   indent:
     - 2
-    - 4
+    - 2
   linebreak-style:
     - 2
-    - windows
+    - unix
   no-console:
     - 1
   quotes:
